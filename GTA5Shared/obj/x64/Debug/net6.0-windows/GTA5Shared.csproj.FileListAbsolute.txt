@@ -1,0 +1,14 @@
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\bin\x64\Debug\net6.0-windows\GTA5Shared.deps.json
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\bin\x64\Debug\net6.0-windows\GTA5Shared.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\bin\x64\Debug\net6.0-windows\GTA5Shared.pdb
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\GTA5Shared.csproj.AssemblyReference.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\GTA5Shared.Properties.Resources.resources
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\GTA5Shared.csproj.GenerateResource.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\GTA5Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\GTA5Shared.AssemblyInfoInputs.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\GTA5Shared.AssemblyInfo.cs
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\GTA5Shared.csproj.CoreCompileInputs.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\GTA5Shared.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\refint\GTA5Shared.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\GTA5Shared.pdb
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Shared\obj\x64\Debug\net6.0-windows\ref\GTA5Shared.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GTA5HotKey/1.0.0": {
+        "runtime": {
+          "GTA5HotKey.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GTA5HotKey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

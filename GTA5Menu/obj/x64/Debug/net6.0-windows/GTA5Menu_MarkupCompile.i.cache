@@ -1,0 +1,20 @@
+﻿GTA5Menu
+1.0.0.0
+
+library
+C#
+.cs
+D:\Source\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Menu\obj\x64\Debug\net6.0-windows\
+GTA5Menu
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+
+31-1992865050
+
+43-125783051
+227-1267655613
+GTA5MenuWindow.xaml;Properties\DesignTimeResources.xaml;Views\ExternalMenuView.xaml;Views\ExternalMenu\ExternalOverlayView.xaml;Views\ExternalMenu\JobHelperView.xaml;Views\ExternalMenu\OnlineOptionView.xaml;Views\ExternalMenu\OtherMiscView.xaml;Views\ExternalMenu\PlayerListView.xaml;Views\ExternalMenu\ReadMeView.xaml;Views\ExternalMenu\SelfStateView.xaml;Views\ExternalMenu\SessionChatView.xaml;Views\ExternalMenu\WorldFunctionView.xaml;Views\offlineVehicleView.xaml;Views\OnlineTeleportView.xaml;Views\OnlineTeleport\AllBlipView.xaml;Views\OnlineTeleport\CustomTeleportView.xaml;Views\OnlineTeleport\DefaultTeleportView.xaml;Views\OnlineTeleport\MyBlipView.xaml;Views\OnlineTeleport\ReadMeView.xaml;Views\OnlineTeleport\TeleportOptionView.xaml;Views\OnlineVehicleView.xaml;Views\OnlineVehicle\AllVehicleView.xaml;Views\OnlineVehicle\DriverButlerView.xaml;Views\OnlineVehicle\FindVehicleView.xaml;Views\OnlineVehicle\MyVehicleView.xaml;Views\OnlineVehicle\ReadMeView.xaml;Views\OnlineVehicle\VehicleOptionView.xaml;Views\OnlineWeaponView.xaml;Views\OnlineWeapon\ReadMeView.xaml;Views\OnlineWeapon\SpawnWeaponView.xaml;Views\OnlineWeapon\WeaponOptionView.xaml;
+
+False
+

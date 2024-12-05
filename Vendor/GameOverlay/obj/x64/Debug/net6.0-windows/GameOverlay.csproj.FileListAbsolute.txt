@@ -1,0 +1,12 @@
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\bin\x64\Debug\net6.0-windows\GameOverlay.deps.json
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\bin\x64\Debug\net6.0-windows\GameOverlay.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\bin\x64\Debug\net6.0-windows\GameOverlay.pdb
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\obj\x64\Debug\net6.0-windows\GameOverlay.csproj.AssemblyReference.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\obj\x64\Debug\net6.0-windows\GameOverlay.GeneratedMSBuildEditorConfig.editorconfig
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\obj\x64\Debug\net6.0-windows\GameOverlay.AssemblyInfoInputs.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\obj\x64\Debug\net6.0-windows\GameOverlay.AssemblyInfo.cs
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\obj\x64\Debug\net6.0-windows\GameOverlay.csproj.CoreCompileInputs.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\obj\x64\Debug\net6.0-windows\GameOverlay.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\obj\x64\Debug\net6.0-windows\refint\GameOverlay.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\obj\x64\Debug\net6.0-windows\GameOverlay.pdb
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Vendor\GameOverlay\obj\x64\Debug\net6.0-windows\ref\GameOverlay.dll

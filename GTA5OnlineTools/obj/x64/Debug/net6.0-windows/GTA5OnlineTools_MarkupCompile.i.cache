@@ -1,0 +1,20 @@
+﻿GTA5OnlineTools
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Source\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5OnlineTools\obj\x64\Debug\net6.0-windows\
+GTA5OnlineTools
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\Source\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5OnlineTools\App.xaml
+20103278894
+
+35-1961501356
+231-1271964581
+LoadWindow.xaml;MainWindow.xaml;Views\AboutView.xaml;Views\GTA5View.xaml;Views\HacksView.xaml;Views\HomeView.xaml;Views\OptionsView.xaml;Views\ReadMe\BincoHax.xaml;Views\ReadMe\GTAHax.xaml;Views\ReadMe\Kiddion.xaml;Views\ReadMe\LSCHax.xaml;Views\ReadMe\YimMenu.xaml;Views\ToolsView.xaml;Windows\GTAHaxWindow.xaml;Windows\KiddionWindow.xaml;Windows\OnlineLuaWindow.xaml;Windows\ProfilesWindow.xaml;Windows\ReadMeWindow.xaml;Windows\StartupWindow.xaml;Windows\UpdateWindow.xaml;
+
+False
+

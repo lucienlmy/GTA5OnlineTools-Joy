@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVElOKN8EIo=",
+  "success": true,
+  "projectFilePath": "D:\\Source\\GTA线上小助手\\GTA5OnlineTools-main 2024-09-24\\GTA5OnlineTools-main\\MetroSkin\\MetroSkin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lmy\\.nuget\\packages\\gong-wpf-dragdrop\\3.2.1\\gong-wpf-dragdrop.3.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "获取包漏洞数据时出错: 无法加载源 https://api.nuget.org/v3/index.json 的服务索引。"
+    }
+  ]
+}

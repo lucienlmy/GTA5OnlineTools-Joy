@@ -1,0 +1,11 @@
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\bin\x64\Debug\net6.0-windows\GTA5Inject.deps.json
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\bin\x64\Debug\net6.0-windows\GTA5Inject.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\bin\x64\Debug\net6.0-windows\GTA5Inject.pdb
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\obj\x64\Debug\net6.0-windows\GTA5Inject.GeneratedMSBuildEditorConfig.editorconfig
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\obj\x64\Debug\net6.0-windows\GTA5Inject.AssemblyInfoInputs.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\obj\x64\Debug\net6.0-windows\GTA5Inject.AssemblyInfo.cs
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\obj\x64\Debug\net6.0-windows\GTA5Inject.csproj.CoreCompileInputs.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\obj\x64\Debug\net6.0-windows\GTA5Inject.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\obj\x64\Debug\net6.0-windows\refint\GTA5Inject.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\obj\x64\Debug\net6.0-windows\GTA5Inject.pdb
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\GTA5Inject\obj\x64\Debug\net6.0-windows\ref\GTA5Inject.dll

@@ -1,0 +1,14 @@
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\bin\x64\Debug\net6.0-windows\TestConsole.exe
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\bin\x64\Debug\net6.0-windows\TestConsole.deps.json
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\bin\x64\Debug\net6.0-windows\TestConsole.runtimeconfig.json
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\bin\x64\Debug\net6.0-windows\TestConsole.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\bin\x64\Debug\net6.0-windows\TestConsole.pdb
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\obj\x64\Debug\net6.0-windows\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\obj\x64\Debug\net6.0-windows\TestConsole.AssemblyInfoInputs.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\obj\x64\Debug\net6.0-windows\TestConsole.AssemblyInfo.cs
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\obj\x64\Debug\net6.0-windows\TestConsole.csproj.CoreCompileInputs.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\obj\x64\Debug\net6.0-windows\TestConsole.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\obj\x64\Debug\net6.0-windows\refint\TestConsole.dll
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\obj\x64\Debug\net6.0-windows\TestConsole.pdb
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\obj\x64\Debug\net6.0-windows\TestConsole.genruntimeconfig.cache
+D:\源代码\GTA线上小助手\GTA5OnlineTools-main 2024-09-24\GTA5OnlineTools-main\Misc\TestConsole\obj\x64\Debug\net6.0-windows\ref\TestConsole.dll
